@@ -4,6 +4,8 @@ Enchantment upgrade tables allow you to upgrade your existing enchantments on to
 
 Tables are identifiable by their purple particle that emits around the book. Right-click holding the tool you'd like to upgrade to open the table. All tools except crossbows are currently supported by upgrade tables.
 
+You are not able to use a crossbow with the upgrade enchant table.
+
 Enchantments which have had their vanilla max levels raised are shown on the table below
 
 | Enchantment           | Max level | Vibecoin cost per level |
@@ -23,7 +25,6 @@ Enchantments which have had their vanilla max levels raised are shown on the tab
 | Sweeping Edge         |     6     |           175           |
 | Lure                  |     8     |           150           |
 | Respiration           |     10    |           155           |
-| Feather Falling       |     8     |           155           |
 | Depth Strider         |     8     |           155           |
 | Unbreaking            |     10    |           255           |
 | Sharpness             |     10    |           125           |
